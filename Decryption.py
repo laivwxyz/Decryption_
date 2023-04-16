@@ -2,7 +2,7 @@
 # Assignment 2
 # Problem 2 - Decryption
 
-# Designing the assignment 2, problem number 2
+# Adding a design in the program 
 from termcolor import colored
 from pyfiglet import Figlet
 
