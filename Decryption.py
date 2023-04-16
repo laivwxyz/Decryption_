@@ -10,7 +10,7 @@ f = Figlet(font = 'standard')
 print(colored(f.renderText('Problem 2  Decryption'), 'green'))
 
 # Ask the user to input an encrypted text
-input_str = input("Enter a string to decrypt: ")
+input_str = input('\033[31m' + "Enter a string to decrypt: ")
 output_str = ""
 # Check every character
 for i in range (len(input_str)):
