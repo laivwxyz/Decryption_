@@ -20,4 +20,9 @@ for i in range (len(input_str)):
     elif input_str[i] == "+":
         output_str += "o"
 # if !, change to u
+    elif input_str[i] == "!":
+        output_str += "u"
+    else:
+        output_str += input_str[i]
+
 # print the output
