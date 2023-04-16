@@ -17,5 +17,7 @@ for i in range (len(input_str)):
     elif input_str[i] == "#":
         output_str += "i"
 # if +, change to o
+    elif input_str[i] == "+":
+        output_str += "o"
 # if !, change to u
 # print the output
