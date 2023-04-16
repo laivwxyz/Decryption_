@@ -2,6 +2,13 @@
 # Assignment 2
 # Problem 2 - Decryption
 
+# Designing the assignment 2, problem number 2
+from termcolor import colored
+from pyfiglet import Figlet
+
+f = Figlet(font = 'standard')
+print(colored(f.renderText('Problem 2  Decryption'), 'green'))
+
 # Ask the user to input an encrypted text
 input_str = input("Enter a string to decrypt: ")
 output_str = ""
