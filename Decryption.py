@@ -33,4 +33,4 @@ for i in range (len(input_str)):
         output_str += input_str[i]
 
 # print the output
-print(output_str)
+print(colored(f.renderText(output_str), 'green'))
