@@ -11,6 +11,8 @@ for i in range (len(input_str)):
     if input_str[i] == "*":
         output_str += "a"
 # if &, change to e
+    elif input_str[i] == "&":
+        output_str += "e"
 # if #, change to i
 # if +, change to o
 # if !, change to u
