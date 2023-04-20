@@ -10,7 +10,7 @@ This Python script accepts an encrypted text as input and decrypts it using the 
 To run this script, you need to have Python installed on your system.
 
 ### Usage
-1. Clone the repository or download the script decrypt.py.
+1. Clone the repository or download the script Decryption.py.
 2. Open your terminal or command prompt and navigate to the directory where the script is located.
 3. Run the script 
 4. Follow the instructions provided by the script to input the encrypted text.
