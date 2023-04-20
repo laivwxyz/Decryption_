@@ -24,4 +24,4 @@ The Plain Text:  the quick brown fox jumps over the lazy dog.
 ![Screenshot (149)](https://user-images.githubusercontent.com/129714181/233365402-776a8d1a-74b7-43f4-9566-dd4fa67848d1.png)
 
 ## Contribute
-Contributions are always welcome! Please read the contribution guidelines(https://github.com/matiassingers/awesome-readme/blob/master/contributing.md) first.
+Contributions are always welcome! Please read the [contribution guidelines](https://github.com/matiassingers/awesome-readme/blob/master/contributing.md) first.
