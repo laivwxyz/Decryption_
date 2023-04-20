@@ -16,6 +16,7 @@ To run this script, you need to have Python installed on your system.
 
 ## Sample Output 
 Enter a string to decrypt: th& q!#ck br+wn f+x j!mps +v&r th& l*zy d+g.
+
 The Plain Text:  the quick brown fox jumps over the lazy dog.
 
 ![Screenshot (149)](https://user-images.githubusercontent.com/129714181/233365402-776a8d1a-74b7-43f4-9566-dd4fa67848d1.png)
