@@ -1,3 +1,5 @@
+# OOP - PYTHON _ ASSIGNMENT 2
+
 ![Screenshot (150)](https://user-images.githubusercontent.com/129714181/233365305-d68bc0ad-5866-428f-bebb-1b9ee8a03144.png)
 
 This Python script accepts an encrypted text as input and decrypts it using the following character substitution:
@@ -21,3 +23,5 @@ The Plain Text:  the quick brown fox jumps over the lazy dog.
 
 ![Screenshot (149)](https://user-images.githubusercontent.com/129714181/233365402-776a8d1a-74b7-43f4-9566-dd4fa67848d1.png)
 
+## Contribute
+Contributions are always welcome! Please read the contribution guidelines(https://github.com/matiassingers/awesome-readme/blob/master/contributing.md) first.
